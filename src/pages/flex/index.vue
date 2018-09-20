@@ -14,12 +14,12 @@
         <div class="weui-flex__item">
           <div class="placeholder">weui</div>
         </div>
-        <div class="weui-flex__item">
+        <div>
           <div class="placeholder">weui</div>
         </div>
       </div>
       <div class="weui-flex">
-        <div class="weui-flex__item">
+        <div>
           <div class="placeholder">weui</div>
         </div>
         <div class="weui-flex__item">
